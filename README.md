@@ -1,3 +1,2 @@
-This is a unique password generator
-
-A new changes
+This is a unique password generator.
+Enjoy it! 
